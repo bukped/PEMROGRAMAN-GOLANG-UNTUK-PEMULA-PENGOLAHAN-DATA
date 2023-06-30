@@ -1,0 +1,702 @@
+[
+  {
+    "Date": "2022-11-20",
+    "Product": "Product_5",
+    "Category": "Books",
+    "Quantity": 5,
+    "TotalAmount": 241.5
+  },
+  {
+    "Date": "2022-03-13",
+    "Product": "Product_4",
+    "Category": "Clothing",
+    "Quantity": 6,
+    "TotalAmount": 392.88
+  },
+  {
+    "Date": "2022-10-13",
+    "Product": "Product_8",
+    "Category": "Electronics",
+    "Quantity": 8,
+    "TotalAmount": 722.4
+  },
+  {
+    "Date": "2022-11-01",
+    "Product": "Product_8",
+    "Category": "Home Appliances",
+    "Quantity": 5,
+    "TotalAmount": 322.6
+  },
+  {
+    "Date": "2022-08-15",
+    "Product": "Product_3",
+    "Category": "Books",
+    "Quantity": 6,
+    "TotalAmount": 356.1
+  },
+  {
+    "Date": "2022-05-10",
+    "Product": "Product_4",
+    "Category": "Books",
+    "Quantity": 9,
+    "TotalAmount": 317.16
+  },
+  {
+    "Date": "2022-11-27",
+    "Product": "Product_10",
+    "Category": "Home Appliances",
+    "Quantity": 5,
+    "TotalAmount": 209.05
+  },
+  {
+    "Date": "2022-05-19",
+    "Product": "Product_6",
+    "Category": "Home Appliances",
+    "Quantity": 8,
+    "TotalAmount": 661.44
+  },
+  {
+    "Date": "2022-08-24",
+    "Product": "Product_9",
+    "Category": "Home Appliances",
+    "Quantity": 2,
+    "TotalAmount": 112.12
+  },
+  {
+    "Date": "2022-08-03",
+    "Product": "Product_4",
+    "Category": "Books",
+    "Quantity": 6,
+    "TotalAmount": 502.68
+  },
+  {
+    "Date": "2022-11-05",
+    "Product": "Product_1",
+    "Category": "Home Appliances",
+    "Quantity": 9,
+    "TotalAmount": 176.13
+  },
+  {
+    "Date": "2022-08-21",
+    "Product": "Product_4",
+    "Category": "Books",
+    "Quantity": 5,
+    "TotalAmount": 92.9
+  },
+  {
+    "Date": "2022-10-16",
+    "Product": "Product_3",
+    "Category": "Clothing",
+    "Quantity": 8,
+    "TotalAmount": 611.2
+  },
+  {
+    "Date": "2022-01-12",
+    "Product": "Product_10",
+    "Category": "Electronics",
+    "Quantity": 9,
+    "TotalAmount": 744.66
+  },
+  {
+    "Date": "2022-07-02",
+    "Product": "Product_3",
+    "Category": "Clothing",
+    "Quantity": 8,
+    "TotalAmount": 144.96
+  },
+  {
+    "Date": "2022-01-18",
+    "Product": "Product_2",
+    "Category": "Electronics",
+    "Quantity": 4,
+    "TotalAmount": 329.28
+  },
+  {
+    "Date": "2022-03-15",
+    "Product": "Product_1",
+    "Category": "Books",
+    "Quantity": 2,
+    "TotalAmount": 103.32
+  },
+  {
+    "Date": "2022-02-11",
+    "Product": "Product_8",
+    "Category": "Electronics",
+    "Quantity": 6,
+    "TotalAmount": 217.74
+  },
+  {
+    "Date": "2022-12-01",
+    "Product": "Product_5",
+    "Category": "Books",
+    "Quantity": 1,
+    "TotalAmount": 21.4
+  },
+  {
+    "Date": "2022-04-03",
+    "Product": "Product_10",
+    "Category": "Home Appliances",
+    "Quantity": 5,
+    "TotalAmount": 214.75
+  },
+  {
+    "Date": "2022-06-10",
+    "Product": "Product_8",
+    "Category": "Books",
+    "Quantity": 2,
+    "TotalAmount": 180.6
+  },
+  {
+    "Date": "2022-11-15",
+    "Product": "Product_7",
+    "Category": "Clothing",
+    "Quantity": 3,
+    "TotalAmount": 296.61
+  },
+  {
+    "Date": "2022-06-15",
+    "Product": "Product_1",
+    "Category": "Home Appliances",
+    "Quantity": 10,
+    "TotalAmount": 399.6
+  },
+  {
+    "Date": "2022-04-13",
+    "Product": "Product_10",
+    "Category": "Clothing",
+    "Quantity": 6,
+    "TotalAmount": 191.94
+  },
+  {
+    "Date": "2022-06-07",
+    "Product": "Product_3",
+    "Category": "Books",
+    "Quantity": 5,
+    "TotalAmount": 284.15
+  },
+  {
+    "Date": "2022-04-08",
+    "Product": "Product_5",
+    "Category": "Books",
+    "Quantity": 3,
+    "TotalAmount": 294.42
+  },
+  {
+    "Date": "2022-04-25",
+    "Product": "Product_8",
+    "Category": "Clothing",
+    "Quantity": 8,
+    "TotalAmount": 83.84
+  },
+  {
+    "Date": "2022-07-30",
+    "Product": "Product_10",
+    "Category": "Books",
+    "Quantity": 10,
+    "TotalAmount": 948.7
+  },
+  {
+    "Date": "2022-02-07",
+    "Product": "Product_4",
+    "Category": "Home Appliances",
+    "Quantity": 3,
+    "TotalAmount": 106.83
+  },
+  {
+    "Date": "2022-01-05",
+    "Product": "Product_2",
+    "Category": "Electronics",
+    "Quantity": 8,
+    "TotalAmount": 799.44
+  },
+  {
+    "Date": "2022-03-25",
+    "Product": "Product_2",
+    "Category": "Clothing",
+    "Quantity": 4,
+    "TotalAmount": 171.72
+  },
+  {
+    "Date": "2022-12-08",
+    "Product": "Product_4",
+    "Category": "Home Appliances",
+    "Quantity": 4,
+    "TotalAmount": 224.04
+  },
+  {
+    "Date": "2022-06-07",
+    "Product": "Product_9",
+    "Category": "Electronics",
+    "Quantity": 4,
+    "TotalAmount": 105.56
+  },
+  {
+    "Date": "2022-11-09",
+    "Product": "Product_6",
+    "Category": "Home Appliances",
+    "Quantity": 5,
+    "TotalAmount": 307.15
+  },
+  {
+    "Date": "2022-04-02",
+    "Product": "Product_9",
+    "Category": "Clothing",
+    "Quantity": 6,
+    "TotalAmount": 455.34
+  },
+  {
+    "Date": "2022-04-23",
+    "Product": "Product_9",
+    "Category": "Clothing",
+    "Quantity": 6,
+    "TotalAmount": 385.44
+  },
+  {
+    "Date": "2022-09-16",
+    "Product": "Product_1",
+    "Category": "Electronics",
+    "Quantity": 4,
+    "TotalAmount": 332.32
+  },
+  {
+    "Date": "2022-12-23",
+    "Product": "Product_2",
+    "Category": "Clothing",
+    "Quantity": 7,
+    "TotalAmount": 300.16
+  },
+  {
+    "Date": "2022-04-03",
+    "Product": "Product_10",
+    "Category": "Home Appliances",
+    "Quantity": 10,
+    "TotalAmount": 215.3
+  },
+  {
+    "Date": "2022-12-05",
+    "Product": "Product_6",
+    "Category": "Clothing",
+    "Quantity": 5,
+    "TotalAmount": 423.95
+  },
+  {
+    "Date": "2022-02-11",
+    "Product": "Product_1",
+    "Category": "Clothing",
+    "Quantity": 8,
+    "TotalAmount": 787.76
+  },
+  {
+    "Date": "2022-03-17",
+    "Product": "Product_1",
+    "Category": "Home Appliances",
+    "Quantity": 6,
+    "TotalAmount": 260.7
+  },
+  {
+    "Date": "2022-03-04",
+    "Product": "Product_5",
+    "Category": "Clothing",
+    "Quantity": 6,
+    "TotalAmount": 344.46
+  },
+  {
+    "Date": "2022-11-25",
+    "Product": "Product_3",
+    "Category": "Clothing",
+    "Quantity": 7,
+    "TotalAmount": 133.21
+  },
+  {
+    "Date": "2022-12-03",
+    "Product": "Product_1",
+    "Category": "Electronics",
+    "Quantity": 6,
+    "TotalAmount": 542.64
+  },
+  {
+    "Date": "2022-10-31",
+    "Product": "Product_3",
+    "Category": "Books",
+    "Quantity": 1,
+    "TotalAmount": 28.03
+  },
+  {
+    "Date": "2022-03-21",
+    "Product": "Product_5",
+    "Category": "Clothing",
+    "Quantity": 5,
+    "TotalAmount": 292.55
+  },
+  {
+    "Date": "2022-11-21",
+    "Product": "Product_6",
+    "Category": "Electronics",
+    "Quantity": 6,
+    "TotalAmount": 531.9
+  },
+  {
+    "Date": "2022-12-04",
+    "Product": "Product_3",
+    "Category": "Books",
+    "Quantity": 2,
+    "TotalAmount": 132.82
+  },
+  {
+    "Date": "2022-10-15",
+    "Product": "Product_4",
+    "Category": "Books",
+    "Quantity": 4,
+    "TotalAmount": 160.44
+  },
+  {
+    "Date": "2022-02-15",
+    "Product": "Product_3",
+    "Category": "Home Appliances",
+    "Quantity": 5,
+    "TotalAmount": 272.55
+  },
+  {
+    "Date": "2022-12-27",
+    "Product": "Product_8",
+    "Category": "Books",
+    "Quantity": 10,
+    "TotalAmount": 217
+  },
+  {
+    "Date": "2022-09-20",
+    "Product": "Product_1",
+    "Category": "Clothing",
+    "Quantity": 4,
+    "TotalAmount": 216.76
+  },
+  {
+    "Date": "2022-07-26",
+    "Product": "Product_7",
+    "Category": "Books",
+    "Quantity": 4,
+    "TotalAmount": 398.08
+  },
+  {
+    "Date": "2022-11-30",
+    "Product": "Product_6",
+    "Category": "Clothing",
+    "Quantity": 6,
+    "TotalAmount": 521.58
+  },
+  {
+    "Date": "2022-01-06",
+    "Product": "Product_2",
+    "Category": "Electronics",
+    "Quantity": 8,
+    "TotalAmount": 502.96
+  },
+  {
+    "Date": "2022-11-29",
+    "Product": "Product_3",
+    "Category": "Clothing",
+    "Quantity": 9,
+    "TotalAmount": 396.45
+  },
+  {
+    "Date": "2022-09-17",
+    "Product": "Product_4",
+    "Category": "Books",
+    "Quantity": 4,
+    "TotalAmount": 398.56
+  },
+  {
+    "Date": "2022-06-19",
+    "Product": "Product_3",
+    "Category": "Clothing",
+    "Quantity": 2,
+    "TotalAmount": 131.56
+  },
+  {
+    "Date": "2022-12-21",
+    "Product": "Product_7",
+    "Category": "Clothing",
+    "Quantity": 4,
+    "TotalAmount": 382.32
+  },
+  {
+    "Date": "2022-09-09",
+    "Product": "Product_9",
+    "Category": "Home Appliances",
+    "Quantity": 7,
+    "TotalAmount": 346.01
+  },
+  {
+    "Date": "2022-12-06",
+    "Product": "Product_9",
+    "Category": "Electronics",
+    "Quantity": 7,
+    "TotalAmount": 149.1
+  },
+  {
+    "Date": "2022-03-13",
+    "Product": "Product_1",
+    "Category": "Clothing",
+    "Quantity": 4,
+    "TotalAmount": 211
+  },
+  {
+    "Date": "2022-02-22",
+    "Product": "Product_10",
+    "Category": "Clothing",
+    "Quantity": 4,
+    "TotalAmount": 65.8
+  },
+  {
+    "Date": "2022-04-02",
+    "Product": "Product_9",
+    "Category": "Home Appliances",
+    "Quantity": 10,
+    "TotalAmount": 492
+  },
+  {
+    "Date": "2022-09-19",
+    "Product": "Product_8",
+    "Category": "Clothing",
+    "Quantity": 4,
+    "TotalAmount": 163.76
+  },
+  {
+    "Date": "2022-11-18",
+    "Product": "Product_8",
+    "Category": "Home Appliances",
+    "Quantity": 7,
+    "TotalAmount": 121.66
+  },
+  {
+    "Date": "2022-09-09",
+    "Product": "Product_6",
+    "Category": "Home Appliances",
+    "Quantity": 5,
+    "TotalAmount": 181.05
+  },
+  {
+    "Date": "2022-12-02",
+    "Product": "Product_1",
+    "Category": "Electronics",
+    "Quantity": 7,
+    "TotalAmount": 311.29
+  },
+  {
+    "Date": "2022-03-18",
+    "Product": "Product_1",
+    "Category": "Electronics",
+    "Quantity": 7,
+    "TotalAmount": 268.38
+  },
+  {
+    "Date": "2022-06-11",
+    "Product": "Product_10",
+    "Category": "Clothing",
+    "Quantity": 4,
+    "TotalAmount": 385.92
+  },
+  {
+    "Date": "2022-04-21",
+    "Product": "Product_4",
+    "Category": "Clothing",
+    "Quantity": 8,
+    "TotalAmount": 609.28
+  },
+  {
+    "Date": "2022-06-12",
+    "Product": "Product_5",
+    "Category": "Home Appliances",
+    "Quantity": 1,
+    "TotalAmount": 76.99
+  },
+  {
+    "Date": "2022-05-29",
+    "Product": "Product_10",
+    "Category": "Books",
+    "Quantity": 9,
+    "TotalAmount": 786.33
+  },
+  {
+    "Date": "2022-10-16",
+    "Product": "Product_9",
+    "Category": "Clothing",
+    "Quantity": 10,
+    "TotalAmount": 988.6
+  },
+  {
+    "Date": "2022-11-28",
+    "Product": "Product_3",
+    "Category": "Home Appliances",
+    "Quantity": 5,
+    "TotalAmount": 433.15
+  },
+  {
+    "Date": "2022-08-31",
+    "Product": "Product_2",
+    "Category": "Clothing",
+    "Quantity": 2,
+    "TotalAmount": 116.4
+  },
+  {
+    "Date": "2022-06-23",
+    "Product": "Product_9",
+    "Category": "Books",
+    "Quantity": 9,
+    "TotalAmount": 420.39
+  },
+  {
+    "Date": "2022-02-28",
+    "Product": "Product_4",
+    "Category": "Home Appliances",
+    "Quantity": 7,
+    "TotalAmount": 592.83
+  },
+  {
+    "Date": "2022-10-30",
+    "Product": "Product_1",
+    "Category": "Clothing",
+    "Quantity": 6,
+    "TotalAmount": 186.48
+  },
+  {
+    "Date": "2022-08-31",
+    "Product": "Product_7",
+    "Category": "Electronics",
+    "Quantity": 7,
+    "TotalAmount": 632.66
+  },
+  {
+    "Date": "2022-04-01",
+    "Product": "Product_5",
+    "Category": "Electronics",
+    "Quantity": 2,
+    "TotalAmount": 45.48
+  },
+  {
+    "Date": "2022-07-11",
+    "Product": "Product_3",
+    "Category": "Clothing",
+    "Quantity": 8,
+    "TotalAmount": 110.88
+  },
+  {
+    "Date": "2022-10-22",
+    "Product": "Product_5",
+    "Category": "Books",
+    "Quantity": 2,
+    "TotalAmount": 182.68
+  },
+  {
+    "Date": "2022-05-10",
+    "Product": "Product_8",
+    "Category": "Home Appliances",
+    "Quantity": 6,
+    "TotalAmount": 421.98
+  },
+  {
+    "Date": "2022-05-29",
+    "Product": "Product_8",
+    "Category": "Books",
+    "Quantity": 2,
+    "TotalAmount": 193.94
+  },
+  {
+    "Date": "2022-10-08",
+    "Product": "Product_2",
+    "Category": "Home Appliances",
+    "Quantity": 5,
+    "TotalAmount": 371.35
+  },
+  {
+    "Date": "2022-05-03",
+    "Product": "Product_8",
+    "Category": "Home Appliances",
+    "Quantity": 5,
+    "TotalAmount": 486.1
+  },
+  {
+    "Date": "2022-09-03",
+    "Product": "Product_7",
+    "Category": "Clothing",
+    "Quantity": 6,
+    "TotalAmount": 65.76
+  },
+  {
+    "Date": "2022-12-28",
+    "Product": "Product_4",
+    "Category": "Electronics",
+    "Quantity": 4,
+    "TotalAmount": 145.76
+  },
+  {
+    "Date": "2022-10-27",
+    "Product": "Product_4",
+    "Category": "Home Appliances",
+    "Quantity": 4,
+    "TotalAmount": 333.04
+  },
+  {
+    "Date": "2022-08-16",
+    "Product": "Product_5",
+    "Category": "Home Appliances",
+    "Quantity": 2,
+    "TotalAmount": 47.66
+  },
+  {
+    "Date": "2022-08-26",
+    "Product": "Product_7",
+    "Category": "Clothing",
+    "Quantity": 9,
+    "TotalAmount": 719.46
+  },
+  {
+    "Date": "2022-12-15",
+    "Product": "Product_7",
+    "Category": "Clothing",
+    "Quantity": 6,
+    "TotalAmount": 389.46
+  },
+  {
+    "Date": "2022-08-11",
+    "Product": "Product_4",
+    "Category": "Clothing",
+    "Quantity": 4,
+    "TotalAmount": 212.8
+  },
+  {
+    "Date": "2022-12-15",
+    "Product": "Product_3",
+    "Category": "Electronics",
+    "Quantity": 2,
+    "TotalAmount": 78.68
+  },
+  {
+    "Date": "2022-03-12",
+    "Product": "Product_10",
+    "Category": "Electronics",
+    "Quantity": 5,
+    "TotalAmount": 178.95
+  },
+  {
+    "Date": "2022-07-19",
+    "Product": "Product_2",
+    "Category": "Clothing",
+    "Quantity": 9,
+    "TotalAmount": 265.86
+  },
+  {
+    "Date": "2022-10-30",
+    "Product": "Product_1",
+    "Category": "Home Appliances",
+    "Quantity": 7,
+    "TotalAmount": 543.62
+  },
+  {
+    "Date": "2022-08-29",
+    "Product": "Product_2",
+    "Category": "Clothing",
+    "Quantity": 5,
+    "TotalAmount": 118.25
+  }
+]
