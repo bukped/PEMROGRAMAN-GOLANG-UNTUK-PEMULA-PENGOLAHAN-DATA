@@ -1,0 +1,101 @@
+Date;Product;Category;Quantity;TotalAmount
+20/11/2022;Product_5;Books;5;241.5
+13/03/2022;Product_4;Clothing;6;392.88
+13/10/2022;Product_8;Electronics;8;722.4
+01/11/2022;Product_8;Home Appliances;5;322.6
+15/08/2022;Product_3;Books;6;356.1
+10/05/2022;Product_4;Books;9;317.16
+27/11/2022;Product_10;Home Appliances;5;209.05
+19/05/2022;Product_6;Home Appliances;8;661.44
+24/08/2022;Product_9;Home Appliances;2;112.12
+03/08/2022;Product_4;Books;6;502.68
+05/11/2022;Product_1;Home Appliances;9;176.13
+21/08/2022;Product_4;Books;5;92.9
+16/10/2022;Product_3;Clothing;8;611.2
+12/01/2022;Product_10;Electronics;9;744.66
+02/07/2022;Product_3;Clothing;8;144.96
+18/01/2022;Product_2;Electronics;4;329.28
+15/03/2022;Product_1;Books;2;103.32
+11/02/2022;Product_8;Electronics;6;217.74
+01/12/2022;Product_5;Books;1;21.4
+03/04/2022;Product_10;Home Appliances;5;214.75
+10/06/2022;Product_8;Books;2;180.6
+15/11/2022;Product_7;Clothing;3;296.61
+15/06/2022;Product_1;Home Appliances;10;399.6
+13/04/2022;Product_10;Clothing;6;191.94
+07/06/2022;Product_3;Books;5;284.15
+08/04/2022;Product_5;Books;3;294.42
+25/04/2022;Product_8;Clothing;8;83.84
+30/07/2022;Product_10;Books;10;948.7
+07/02/2022;Product_4;Home Appliances;3;106.83
+05/01/2022;Product_2;Electronics;8;799.44
+25/03/2022;Product_2;Clothing;4;171.72
+08/12/2022;Product_4;Home Appliances;4;224.04
+07/06/2022;Product_9;Electronics;4;105.56
+09/11/2022;Product_6;Home Appliances;5;307.15
+02/04/2022;Product_9;Clothing;6;455.34
+23/04/2022;Product_9;Clothing;6;385.44
+16/09/2022;Product_1;Electronics;4;332.32
+23/12/2022;Product_2;Clothing;7;300.16
+03/04/2022;Product_10;Home Appliances;10;215.3
+05/12/2022;Product_6;Clothing;5;423.95
+11/02/2022;Product_1;Clothing;8;787.76
+17/03/2022;Product_1;Home Appliances;6;260.7
+04/03/2022;Product_5;Clothing;6;344.46
+25/11/2022;Product_3;Clothing;7;133.21
+03/12/2022;Product_1;Electronics;6;542.64
+31/10/2022;Product_3;Books;1;28.03
+21/03/2022;Product_5;Clothing;5;292.55
+21/11/2022;Product_6;Electronics;6;531.9
+04/12/2022;Product_3;Books;2;132.82
+15/10/2022;Product_4;Books;4;160.44
+15/02/2022;Product_3;Home Appliances;5;272.55
+27/12/2022;Product_8;Books;10;217.0
+20/09/2022;Product_1;Clothing;4;216.76
+26/07/2022;Product_7;Books;4;398.08
+30/11/2022;Product_6;Clothing;6;521.58
+06/01/2022;Product_2;Electronics;8;502.96
+29/11/2022;Product_3;Clothing;9;396.45
+17/09/2022;Product_4;Books;4;398.56
+19/06/2022;Product_3;Clothing;2;131.56
+21/12/2022;Product_7;Clothing;4;382.32
+09/09/2022;Product_9;Home Appliances;7;346.01
+06/12/2022;Product_9;Electronics;7;149.1
+13/03/2022;Product_1;Clothing;4;211.0
+22/02/2022;Product_10;Clothing;4;65.8
+02/04/2022;Product_9;Home Appliances;10;492.0
+19/09/2022;Product_8;Clothing;4;163.76
+18/11/2022;Product_8;Home Appliances;7;121.66
+09/09/2022;Product_6;Home Appliances;5;181.05
+02/12/2022;Product_1;Electronics;7;311.29
+18/03/2022;Product_1;Electronics;7;268.38
+11/06/2022;Product_10;Clothing;4;385.92
+21/04/2022;Product_4;Clothing;8;609.28
+12/06/2022;Product_5;Home Appliances;1;76.99
+29/05/2022;Product_10;Books;9;786.33
+16/10/2022;Product_9;Clothing;10;988.6
+28/11/2022;Product_3;Home Appliances;5;433.15
+31/08/2022;Product_2;Clothing;2;116.4
+23/06/2022;Product_9;Books;9;420.39
+28/02/2022;Product_4;Home Appliances;7;592.83
+30/10/2022;Product_1;Clothing;6;186.48
+31/08/2022;Product_7;Electronics;7;632.66
+01/04/2022;Product_5;Electronics;2;45.48
+11/07/2022;Product_3;Clothing;8;110.88
+22/10/2022;Product_5;Books;2;182.68
+10/05/2022;Product_8;Home Appliances;6;421.98
+29/05/2022;Product_8;Books;2;193.94
+08/10/2022;Product_2;Home Appliances;5;371.35
+03/05/2022;Product_8;Home Appliances;5;486.1
+03/09/2022;Product_7;Clothing;6;65.76
+28/12/2022;Product_4;Electronics;4;145.76
+27/10/2022;Product_4;Home Appliances;4;333.04
+16/08/2022;Product_5;Home Appliances;2;47.66
+26/08/2022;Product_7;Clothing;9;719.46
+15/12/2022;Product_7;Clothing;6;389.46
+11/08/2022;Product_4;Clothing;4;212.8
+15/12/2022;Product_3;Electronics;2;78.68
+12/03/2022;Product_10;Electronics;5;178.95
+19/07/2022;Product_2;Clothing;9;265.86
+30/10/2022;Product_1;Home Appliances;7;543.62
+29/08/2022;Product_2;Clothing;5;118.25
