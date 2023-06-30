@@ -33,5 +33,3 @@ Buku "Pemrograman Golang Untuk Pemula: Pengolahan Dataset" dilindungi oleh hak c
 
 ## Terima Kasih
 Terima kasih telah mengunjungi repository ini. Kami berharap buku "Pemrograman Golang Untuk Pemula: Pengolahan Dataset" dan materi dalam repository ini dapat membantu Anda mempelajari Golang dan pengolahan dataset dengan baik. Selamat belajar!
-
-Penulis
