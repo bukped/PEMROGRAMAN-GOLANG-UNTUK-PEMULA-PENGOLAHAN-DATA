@@ -1,5 +1,3 @@
-# README.md
-
 ## Persyaratan Sistem untuk Menginstal Golang
 
 Sebelum menginstal Golang di Windows, pastikan komputer Anda memenuhi persyaratan sistem berikut:
