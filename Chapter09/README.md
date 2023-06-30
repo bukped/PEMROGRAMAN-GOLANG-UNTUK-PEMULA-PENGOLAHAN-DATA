@@ -1,6 +1,6 @@
 # Statistik Dasar, Nilai Maksimum dan Minimum, dan Frekuensi Data
 
-Proyek ini memberikan tutorial tentang bagaimana menghitung statistik dasar seperti rata-rata, median, modus, dan deviasi standar dari suatu dataset. Selain itu, tutorial juga mencakup cara menemukan nilai maksimum dan minimum dalam dataset serta menghitung frekuensi data. Informasi ini berguna dalam analisis data dan dapat membantu memahami distribusi dan pola data.
+Chapter ini memberikan tutorial tentang bagaimana menghitung statistik dasar seperti rata-rata, median, modus, dan deviasi standar dari suatu dataset. Selain itu, tutorial juga mencakup cara menemukan nilai maksimum dan minimum dalam dataset serta menghitung frekuensi data. Informasi ini berguna dalam analisis data dan dapat membantu memahami distribusi dan pola data.
 
 ## Daftar Isi
 
