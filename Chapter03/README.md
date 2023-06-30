@@ -29,9 +29,10 @@ Penggunaan Visual Studio Code (VS Code) sebagai lingkungan pengembangan terpadu 
    ![image](https://github.com/nawafnaofal/PEMROGRAMAN-GOLANG-UNTUK-PEMULA-PENGOLAHAN-DATA/assets/74226869/db1f2192-2a4d-4859-ba2c-4b57ab34b5d1)
 
 5. Tunggu hingga proses instalasi selesai.
+
    ![image](https://github.com/nawafnaofal/PEMROGRAMAN-GOLANG-UNTUK-PEMULA-PENGOLAHAN-DATA/assets/74226869/8b43bae8-f8c2-4621-89e4-e8b51a83697e)
 
-6. Setelah selesai, Visual Studio Code siap digunakan.
+7. Setelah selesai, Visual Studio Code siap digunakan.
 
 **C. KONFIGURASI VISUAL STUDIO CODE UNTUK GOLANG**
 
